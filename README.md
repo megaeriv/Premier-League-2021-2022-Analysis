@@ -17,7 +17,7 @@ This project contains a case study, analysis and visualization of the just concl
 
 5. Data Visualization
 
-6. Conclusion
+6. Insight
 
 # Aim
 
