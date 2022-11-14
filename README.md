@@ -3,7 +3,7 @@
 The Premier League is one of the top five football leagues in the world, it is arguably the most competitive football league with the most talented teams and managers. 
 It is the Top Tier league in the UK featuring arguably the Greatest Player of All Time in Cristiano Ronaldo.
 
-This project contains a case study, analysis and visualization of the just concluded Premier League season (2021/2022) to identify and categorize players and teams in terms of attacking strength.
+This project entails analysis and visualization of the  Premier League season (2021/2022) to identify and categorize players and teams in terms of attacking strength.
 
 # Content
 
